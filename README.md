@@ -3,6 +3,8 @@
 |Sambhav Jain|[sambhavjain2612@gmail.com](mailto:sambhavjain2612@gmail.com)|
 |---|---|
 
+This is a monorepo built on top of NX. Both API and Client are hosted inside `/apps`.
+
 ## Running tasks
 
 To run the dev server for your app, use:
